@@ -3,8 +3,6 @@
 * [FontEditor 소개](README.md)
 * [에디터 기본 구조](chapter1.md)
   * [Project](chapter1/project.md)
-    * [메뉴](chapter1/project/ba54-b274.md)
-    * [외부 폰트 불러오기](chapter1/project/c678-bd80-d3f0-d2b8-bd88-b7ec-c624-ae30.md)
   * [Classic](chapter1/classic.md)
     * 메뉴
     * 글자 목록
