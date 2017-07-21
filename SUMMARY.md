@@ -4,8 +4,6 @@
 * [에디터 기본 구조](chapter1.md)
   * [Project](chapter1/project.md)
   * [Classic](chapter1/classic.md)
-    * 메뉴
-    * 글자 목록
   * [Simple](chapter1/simple.md)
     * 미리보기
   * 글꼴 편집기
