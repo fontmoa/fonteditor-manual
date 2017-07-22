@@ -6,9 +6,6 @@
   * [Classic](chapter1/classic.md)
   * [Simple](chapter1/simple.md)
   * [글꼴 편집기](chapter1/ae00-af34-d3b8-c9d1-ae30.md)
-    * 메뉴 구조
-    * Context 메뉴
-    * 기본 용어
 * [간단한 폰트 만들기](d3f0-d2b8-b9cc-b4e4-ae30.md)
   * Project 생성
   * 글자 만들기
