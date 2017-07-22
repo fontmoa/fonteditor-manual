@@ -5,7 +5,7 @@
   * [Project](chapter1/project.md)
   * [Classic](chapter1/classic.md)
   * [Simple](chapter1/simple.md)
-  * 글꼴 편집기
+  * [글꼴 편집기](chapter1/ae00-af34-d3b8-c9d1-ae30.md)
     * 메뉴 구조
     * Context 메뉴
     * 기본 용어
