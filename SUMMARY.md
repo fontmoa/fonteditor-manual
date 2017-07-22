@@ -5,7 +5,6 @@
   * [Project](chapter1/project.md)
   * [Classic](chapter1/classic.md)
   * [Simple](chapter1/simple.md)
-    * 미리보기
   * 글꼴 편집기
     * 메뉴 구조
     * Context 메뉴
