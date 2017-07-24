@@ -11,17 +11,6 @@
   * [글자 만들기](d3f0-d2b8-b9cc-b4e4-ae30/ae00-c790-b9cc-b4e4-ae30.md)
   * [글자 그리기](d3f0-d2b8-b9cc-b4e4-ae30/ae00-c790-adf8-b9ac-ae30.md)
 * [기능들](ae30-b2a5-b4e4.md)
-  * [불러오기](ae30-b2a5-b4e4/bd88-b7ec-c624-ae30.md)
-    * [SVG](ae30-b2a5-b4e4/bd88-b7ec-c624-ae30/svg-bd88-b7ec-c624-ae30.md)
-    * [비트맵이미지](ae30-b2a5-b4e4/bd88-b7ec-c624-ae30/c774-bbf8-c9c0.md)
-      * 비트맵을 벡터로 변환
-    * 외부 URL
-    * TTF, WOFF, OTF
-  * 내보내기
-    * TTF
-    * 웹폰트
-    * 아이콘 폰트
-  * 미리보기
 * [글꼴 편집기 ](outline-adf8-b9ac-ae30-d234.md)
   * [그리기](outline-adf8-b9ac-ae30-d234/outline-adf8-b9ac-ae30.md)
   * 회전
