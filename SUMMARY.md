@@ -10,7 +10,7 @@
   * [Project 생성](d3f0-d2b8-b9cc-b4e4-ae30/project-c0dd-c131.md)
   * [글자 만들기](d3f0-d2b8-b9cc-b4e4-ae30/ae00-c790-b9cc-b4e4-ae30.md)
   * [글자 그리기](d3f0-d2b8-b9cc-b4e4-ae30/ae00-c790-adf8-b9ac-ae30.md)
-* [기능들](ae30-b2a5-b4e4.md)
+* [불러오기와 내보내기](ae30-b2a5-b4e4.md)
 * [글꼴 편집기 ](outline-adf8-b9ac-ae30-d234.md)
   * [그리기](outline-adf8-b9ac-ae30-d234/outline-adf8-b9ac-ae30.md)
   * 회전
